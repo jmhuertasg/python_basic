@@ -10,3 +10,12 @@
     También se estudiará la librería Matplotlib. Esta permite la representación gráfica de datos usando diferentes formatos de representación y tipos de gráficas. De una manera sencilla se pueden configurar las diferentes gráficas y datos que se representan.
 
     Por último, se describirá la librería Pandas, la cual introduce un conjunto de estructuras de datos nuevas que permite realizar operaciones de manipulación de datos de una forma muy sencilla. Estas operaciones —como selección, limpieza o transformación de datos— suelen ser bastante útiles cuando se están preparando los datos para ser analizados.
+
+# Objetivos
+
+* Conocer la librería NumPy de Python y saber utilizarla para llevar a cabo la gestión de arrays y el cálculo estadístico.
+* Conocer la librería Matplotlib de Python y saber utilizarla para realizar representaciones gráficas de datos.
+* Conocer la librería Pandas de Python y saber utilizarla para manipular datos y analizarlos.
+* Saber utilizar de manera conjunta las librerías científicas para poder realizar un análisis de datos completo.
+
+
